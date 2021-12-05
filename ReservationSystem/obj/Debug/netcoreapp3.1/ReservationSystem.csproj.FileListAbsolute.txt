@@ -1,0 +1,14 @@
+C:\Users\Berina\source\repos\ReservationSystem\ReservationSystem\bin\Debug\netcoreapp3.1\ReservationSystem.exe
+C:\Users\Berina\source\repos\ReservationSystem\ReservationSystem\bin\Debug\netcoreapp3.1\ReservationSystem.deps.json
+C:\Users\Berina\source\repos\ReservationSystem\ReservationSystem\bin\Debug\netcoreapp3.1\ReservationSystem.runtimeconfig.json
+C:\Users\Berina\source\repos\ReservationSystem\ReservationSystem\bin\Debug\netcoreapp3.1\ReservationSystem.runtimeconfig.dev.json
+C:\Users\Berina\source\repos\ReservationSystem\ReservationSystem\bin\Debug\netcoreapp3.1\ReservationSystem.dll
+C:\Users\Berina\source\repos\ReservationSystem\ReservationSystem\bin\Debug\netcoreapp3.1\ReservationSystem.pdb
+C:\Users\Berina\source\repos\ReservationSystem\ReservationSystem\obj\Debug\netcoreapp3.1\ReservationSystem.csproj.AssemblyReference.cache
+C:\Users\Berina\source\repos\ReservationSystem\ReservationSystem\obj\Debug\netcoreapp3.1\ReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berina\source\repos\ReservationSystem\ReservationSystem\obj\Debug\netcoreapp3.1\ReservationSystem.AssemblyInfoInputs.cache
+C:\Users\Berina\source\repos\ReservationSystem\ReservationSystem\obj\Debug\netcoreapp3.1\ReservationSystem.AssemblyInfo.cs
+C:\Users\Berina\source\repos\ReservationSystem\ReservationSystem\obj\Debug\netcoreapp3.1\ReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Berina\source\repos\ReservationSystem\ReservationSystem\obj\Debug\netcoreapp3.1\ReservationSystem.dll
+C:\Users\Berina\source\repos\ReservationSystem\ReservationSystem\obj\Debug\netcoreapp3.1\ReservationSystem.pdb
+C:\Users\Berina\source\repos\ReservationSystem\ReservationSystem\obj\Debug\netcoreapp3.1\ReservationSystem.genruntimeconfig.cache

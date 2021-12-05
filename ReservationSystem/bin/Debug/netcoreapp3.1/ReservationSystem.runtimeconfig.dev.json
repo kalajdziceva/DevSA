@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Berina\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Berina\\.nuget\\packages"
+    ]
+  }
+}
